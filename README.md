@@ -2,9 +2,9 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/ci.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3558)
 
-Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
+自托管是在您自己的服务器上托管和管理应用程序而不是从 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) 提供商处消费的做法。
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free](non-free.md) page.
+这是可以托管在您自己的服务器上的[免费](https://en.wikipedia.org/wiki/Free_software)软件,[网络服务](https://en.wikipedia.org/wiki/Network_service)和 [Web应用程序](https://en.wikipedia.org/wiki/Web_application)的列表。收费软件列在[收费](non-free.md)页面上。
 
 See [Contributing](.github/CONTRIBUTING.md).
 
