@@ -7,14 +7,14 @@
 ## Table of contents
 
 - [Software](#software)
-  - [Automation](#automation)
+  - [自动化](#automation)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Communication - SIP](#communication---sip)
   - [Document Management - E-books](#document-management---e-books)
   - [E-commerce](#e-commerce)
   - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [Games](#games)
+  - [游戏](#games)
   - [Internet of Things (IoT)](#internet-of-things-iot)
   - [Knowledge Management Tools](#knowledge-management-tools)
   - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
@@ -35,9 +35,9 @@
 ## Software
 
 
-### Automation
+### 自动化
 
-- [n8n](https://n8n.io/) - Free node based Workflow Automation Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
+- [n8n](https://n8n.io/) - Free node based Workflow 自动化 Tool. Easily automate tasks across different services. ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
 
 
 ### Communication - Custom Communication Systems
@@ -77,7 +77,7 @@
 
 - [Sharetribe](https://www.sharetribe.com) - Open-source platform to create your own peer-to-peer marketplace, also available with SaaS model. ([Source Code](https://github.com/sharetribe/sharetribe)) `⊘ Proprietary` `Ruby`
 
-### Games
+### 游戏
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - Clone of 2048 game in 3D. ([Demo](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `HTML5`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - Unique puzzle game designed for geeks and developers, where you solve the puzzles in the game by reading and writing Javascript. ([Demo](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
