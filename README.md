@@ -117,15 +117,15 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[数据分析](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
+[数据分析](https://en.wikipedia.org/wiki/Analytics)是数据或统计的系统计算分析。它用于发现、解释和交流数据中有意义的模式。
 
 _Related: [Database Management](#database-management), [Personal Dashboards](#personal-dashboards)_
 
-- [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
-- [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
-- [Countly Community Edition](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs`
-- [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
-- [EDA](https://eda.jortilles.com/en/jortilles-english/) - Web application for data analysis and visualization. ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Nodejs`
+- [Ackee](https://ackee.electerious.com) - 为关心隐私的人提供的自托管分析工具. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
+- [AWStats](http://www.awstats.org/) - 从网络服务器、流媒体服务器、ftp服务器 或邮件服务器日志文件生成统计数据. ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+- [Countly Community Edition](https://count.ly) - Countly 是最广泛的产品分析和创新平台，用于了解和增强 Web、桌面和移动应用程序中的客户旅程. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs`
+- [Druid](http://druid.io/) - 一个高性能的实时分析数据库，可在大规模和负载下提供对流式和批处理数据的亚秒级查询. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
+- [EDA](https://eda.jortilles.com/en/jortilles-english/) - 用于数据分析和可视化的 Web 应用程序. ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Nodejs`
 - [Fathom Lite](https://github.com/usefathom/fathom) - A simple and privacy-focused web analytics alternative to Google Analytics. `MIT` `Go`
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 - [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data. ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
