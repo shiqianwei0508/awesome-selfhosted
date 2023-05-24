@@ -14,13 +14,13 @@ See [Contributing](.github/CONTRIBUTING.md).
 ## Table of contents
 
 - [Software](#software)
-  - [Analytics](#analytics)
-  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
-  - [Automation](#automation)
-  - [Backup](#backup)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Booking and Scheduling](#booking-and-scheduling)
-  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
+  - [数据分析](#analytics)
+  - [数字归档和保存](#archiving-and-digital-preservation-dp)
+  - [自动化](#automation)
+  - [备份](#backup)
+  - [博客平台](#blogging-platforms)
+  - [预订和计划](#booking-and-scheduling)
+  - [书签和链接分享](#bookmarks-and-link-sharing)
   - [Calendar & Contacts - CalDAV or CardDAV Servers](#calendar--contacts---caldav-or-carddav-servers)
   - [Calendar & Contacts - CalDAV or CardDAV Web-based Clients](#calendar--contacts---caldav-or-carddav-web-based-clients)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
@@ -117,7 +117,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
+[数据分析](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
 
 _Related: [Database Management](#database-management), [Personal Dashboards](#personal-dashboards)_
 
@@ -168,7 +168,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
+[自动化](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.
 
 _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
@@ -220,7 +220,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Backup](https://en.wikipedia.org/wiki/Backup) software.
+[备份](https://en.wikipedia.org/wiki/Backup) software.
 
 **Please visit [awesome-sysadmin/Backups](https://github.com/awesome-foss/awesome-sysadmin#backups)**
 
@@ -667,7 +667,7 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 
 [Content Management Systems](https://en.wikipedia.org/wiki/Content_management_system) offer a practical way to setup a website with many features, using third party plugins, themes and functionality that are easy to add and customize.
 
-_Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#static-site-generators)_
+_Related: [博客平台](#blogging-platforms), [Static Site Generators](#static-site-generators)_
 
 - [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code](https://hub.alfresco.com/t5/alfresco-content-services-hub/project-overview-repository/ba-p/290502)) `LGPL-3.0` `Java`
 - [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
@@ -721,7 +721,7 @@ _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#s
 
 Web interfaces for [database](https://en.wikipedia.org/wiki/Database) management. Includes tools for database analytics and visualization.
 
-_Related: [Analytics](#analytics), [Automation](#automation)_
+_Related: [数据分析](#analytics), [自动化](#automation)_
 
 _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 
@@ -812,7 +812,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 An [integrated library system](https://en.wikipedia.org/wiki/Integrated_library_system) is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.
 
-_Related: [Content Management Systems (CMS)](#content-management-systems-cms), [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)_
+_Related: [Content Management Systems (CMS)](#content-management-systems-cms), [数字归档和保存](#archiving-and-digital-preservation-dp)_
 
 - [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials. ([Source Code](https://github.com/evergreen-library-system/Evergreen)) `GPL-2.0` `PL/pgSQL`
 - [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/), [Source Code](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`
@@ -1535,7 +1535,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 
 Dashboards for accessing information and applications.
 
-_Related: [Monitoring](#monitoring), [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)_
+_Related: [Monitoring](#monitoring), [书签和链接分享](#bookmarks-and-link-sharing)_
 
 - [Baby Buddy](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
 - [Dashboard](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
@@ -1598,7 +1598,7 @@ A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that hel
 
 Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and [events](https://en.wikipedia.org/wiki/Event).
 
-_Related: [Booking and Scheduling](#booking-and-scheduling)_
+_Related: [预订和计划](#booking-and-scheduling)_
 
 - [Bitpoll](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Python`
 - [Calagator](https://calagator.org/) - Event aggregator. ([Source Code](https://github.com/calagator/calagator)) `MIT` `Ruby`
